@@ -12,7 +12,10 @@
 - 🔭 My next learning goals are React and Redux.  
   
 
-- ⚡ Fun fact: I love Bootstrap but usually style webpage using plain CSS inspired on it.  
+- ⚡ Fun fact: I love Bootstrap but usually style webpage using plain CSS inspired on it.
+
+
+- 🙋‍♂️ I'm open to new opportunities.
   
 
 <br/>  

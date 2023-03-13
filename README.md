@@ -12,7 +12,7 @@
 - 🔭 My next learning goal is AWS.  
   
 
-- ⚡ Fun fact: I love Backend but if the UI/UX design is clearly settled, this is like a amusement park for me.
+- ⚡ Fun fact: I love Backend but if the UI/UX design is clearly settled, this is like a amusement park.
 
 
 - 🙋‍♂️ I'm open to new opportunities.

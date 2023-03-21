@@ -17,8 +17,10 @@
 
 - 🙋‍♂️ I'm open to new opportunities.
 
+
+- 📫 How to reach me: 
+
 <div align="left">
-<p>- 📫 How to reach me: </p>
 <a href="https://github.com/Camilovelag" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>

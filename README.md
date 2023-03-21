@@ -80,10 +80,12 @@
 
 
 ### Professional   
-<div align="left">  
-  - Remote Pair-Programming
-  - Teamwork
-  - Mentoring
+<div align="left"> 
+<ul>
+<li>Remote Pair-Programming</li>
+<li>Teamwork</li>
+<li>Mentoring</li>
+</ul>
 </div>
 
 </td></tr></table>  

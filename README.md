@@ -83,7 +83,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Camilovelag&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=camilovelag&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilovelag&hide_border=true&layout=compact" align="right" /></div>  
 
 <br/>  
 

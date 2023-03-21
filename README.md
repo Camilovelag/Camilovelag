@@ -27,6 +27,24 @@
 <strong>Front-End</strong>
 </td><td valign="top" width="75%">
 <p>JavaScript, React, Redux, HTML5, CSS3, Bootstrap, Tailwind.</p>
+</td></tr>
+  
+<tr><td valign="top" width="25%">
+<strong>Back-End</strong>
+</td><td valign="top" width="75%">
+<p>Ruby, Rails, PostgreSQL, Swagger.</p>
+</td></tr>
+  
+<tr><td valign="top" width="25%">
+<strong>Tools & Methods</strong>
+</td><td valign="top" width="75%">
+<p>Git, GitHub, Render, Netlify, Mobile/Responsive Development, RSpec, Jest, TDD, Chrome Dev Tools.</p>
+</td></tr>
+  
+<tr><td valign="top" width="25%">
+<strong>Professional</strong>
+</td><td valign="top" width="75%">
+<p>Remote Pair-Programming, Teamwork, Mentoring.</p>
 </td></tr></table>  
 
 <br/>  

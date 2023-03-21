@@ -66,14 +66,17 @@
 
 ### Tools & Methods  
 <div align="left">
-  - Git
-  - GitHub
-  - Render
-  - Netlify
-  - Mobile/Responsive Development
-  - RSpec
-  - Test Driven development (TDD)
-  - Chrome Dev Tools
+<ul>
+<li>Git</li>
+<li>GitHub</li>
+<li>Render</li>
+<li>Netlify</li>
+<li>Mobile/Responsive Development</li>
+<li>RSpec</li>
+<li>Jest</li>
+<li>Test Driven development (TDD)</li>
+<li>Chrome Dev Tools</li>
+</ul>
 </div>
 
 </td><td valign="top" width="25%">

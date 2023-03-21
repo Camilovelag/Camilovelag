@@ -18,7 +18,7 @@
 - 🙋‍♂️ I'm open to new opportunities.
 
 
-- 📫 How to reach me:
+- 📫 How to reach me:  
 
 <div align="left">  
 <a href="https://twitter.com/camilovelag" target="_blank">

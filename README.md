@@ -1,9 +1,10 @@
-## <div align="center">I'm Camilo, a full-time full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">Hi there! I'm Camilo, a full-time full-stack developer 👨‍💻</div>  
   
-- 🌱 I’m currently learning Ruby on Rails and related technologies.
+- 👯 I’m looking to collaborate on React and Ruby on Rails projects.
+- 💬 Ask me about Web Responsive Development and Backend features.
 - 🔭 My next learning goal is AWS.  
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Backend but, if the UI/UX design is clearly settled, this is like a amusement park.
-- 🙋‍♂️ I'm open to new opportunities.
 
 </div>
 

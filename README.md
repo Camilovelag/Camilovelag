@@ -87,13 +87,4 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilovelag&hide_border=true&layout=compact" align="left" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=camilovelag&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
